@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ship">
+    <output-path>$USER_HOME$/Desktop/war</output-path>
+    <root id="archive" name="ship.war">
+      <element id="artifact" artifact-name="ship:war exploded" />
+    </root>
+  </artifact>
+</component>

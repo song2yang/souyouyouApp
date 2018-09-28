@@ -1,0 +1,34 @@
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td, legend, button {
+	margin: 0;
+	padding: 0;
+}
+body{font-family:Verdana, Geneva, sans-serif;}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+fieldset, img, button {
+	border: 0;
+}
+address, caption, cite, code, dfn, em, strong, th, var {
+	font-style: normal;
+	font-weight: normal;
+}
+ol, ul {
+	list-style: none;
+}
+caption, th {
+	text-align: left;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-size: 100%;
+	font-weight: normal;
+}
+q:before, q:after {
+	content: '';
+}
+abbr, acronym {
+	border: 0;
+}
+.content{width:800px;margin:50px auto;}
+.content h4{margin-top:20px;line-height:2;}
